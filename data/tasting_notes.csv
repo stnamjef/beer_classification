@@ -1,0 +1,99 @@
+Country,Company,Name,Full Name,Aroma,Flavor,Appearance,Body
+Germany,Spaten,Munich Helles Premium Larger,Spaten Munich Helles Premium Lager,"toasty, hop","bitter, sweet, pomaceous fruit, floral",straw,3.0
+Germany,Spaten,Oktoberfestbier,Spaten Oktoberfestbier,"sweet, caramel","citrus fruit, nutty",straw,4.0
+Germany,Bitburger,Premium Pils,Bitbruger Premium Pils,"grassy, pomaceous fruit, fresh","neat, fine malt, fresh hop, nutty, malty",gold,2.0
+Germany,Hofbr?u M?nchen,Original Larger,Hofbr?u M?nchen Original Larger,"floral, sweet, malty","nutty, malty, bitter, sweet",gold,3.0
+Germany,Weltenburger,Barock Dunkel,Weltenburger Barock Dunkel,"roasty, malty, hop","sweet, toasty",brown,3.0
+Germany,Andechs,Weissbier Dunkel,Andechs Weissbier Dunkel,"sweet, banana, spicy","sweet, fruity, roasty, caramel",brown,3.0
+Germany,Andechs,Bergbock Hell,Andechs Bergbock Hell,"alcohol, neat, fresh, hop","toasty, citrus fruit, bready",gold,3.0
+Germany,Flensburger,Pilsener,Flensburger Pilsener,"fresh, hop","mlaty, hop",gold,3.0
+Germany,Paulaner,Salvator,Paulaner Salvator,"toasty, sweet, caramel, alcohol","dried fruit, toasty, smoky",brown,5.0
+Germany,Schneider Weisse,TAP7 Original,Schneider Weisse TAP7 Original,"spicy, banana","tropical fruit, wheat, nutty, toasty",amber,3.0
+Germany,Schneider Weisse,Aventinus Eisbock,Schneider Weisse Aventinus Eisbock,"spicy, dried fruit","dried fruit, nutty, banana",brown,5.0
+Germany,Einbecker,Mai-Ur-Bock,Einbecker Mai-Ur-Bock,"grassy, smooth, sweet, spicy","pomaceous fruit, fresh, citrus, toasty",gold,3.0
+Germany,K?stritzer,Schwarzbier,K?stritzer Schwarzbier,"roasty, bitter, nutty","bitter, sweet",black,3.0
+Germany,Schlenkerla,Rauchbier M?rzen,Schlenkerla Rauchbier M?rzen,"smoky, roasty","smoky, roasty, nutty",brown,5.0
+Germany,Weihenstephaner,Kristall Weissbier,Weihenstephaner Kristall Weissbier,"fresh, banana, white wine","floral, tropical fruit",gold,1.0
+Germany,Franziskaner,Hefe-Weissbier,Franziskaner Hefe-Weissbier,"spicy, fruity, toasty","banana, citrus fruit",amber,3.0
+Germany,Erdinger,Weissbier,Erdinger Weissbier,"sweet, banana, pomaceous fruit, fresh","banana, spicy, citrus, rice wine",amber,3.0
+Germany,,Dom K?lsch,Dom K?lsch,"malty, smooth, white wine, fruity",white wine,gold,2.0
+Germany,,Gaffel K?lsch,Gaffel K?lsch,"floral, white wine","hop, bready, smooth",straw,2.0
+Germany,Zum Uerige,Uerige Classic Alt,Zum Uerige Classic Alt,"grassy, sweet, nutty","toasty, fresh",amber,3.0
+Belgium,Hoegaarden,White,Hoegaarden White,"citrus fruit, pomaceous fruit, dried fruit",citrus fruit,straw,1.0
+Belgium,St.Feuillien,Tripel,St.Feuillien Tripel,"citrus fruit, pomaceous fruit, spicy","pomaceous fruit, citrus fruit",amber,4.0
+Belgium,Duvel Moortgat,Duvel,Duvel Moortgat Duvel,"citrus fruit, spicy","banana, spicy",gold,5.0
+Belgium,St.Bernardus,Abt12,St.Bernardus Abt12,"pomaceous fruit, dried fruit, banana","roasty, caramel, sweet",brown,5.0
+Belgium,Huyghe,Delirium Tremens,Huyghe Delirium Tremens,"pomaceous fruit, citrus fruit, banana, spicy","citrus fruit, spicy, sweet, pomaceous fruit",gold,4.0
+Belgium,Orval,Orval,Orval,"citrus fruit, pomaceous fruit",citrus fruit,brown,3.0
+Belgium,Rochefort,10,Rochefort 10,"banana, dried fruit, caramel, sweet","dried fruit, sweet, berry, nutty",brown,5.0
+Belgium,Westmalle,Tripel,Westmalle Tripel,"banana, spicy, citrus fruit","tropical fruit, citrus fruit",amber,3.0
+Belgium,Chimay,Blue,Chimay Blue,"grassy, bready, dried fruit, spicy, caramel, citrus fruit","caramel, berry, dried fruit, smoky",brown,5.0
+Belgium,Dupont,Saison Dupont,Dupont Saison Dupont,"citrus fruit, banana, pomaceous fruit, sweet, spicy","citrus fruit, banana, sweet, spicy, citrus fruit, pomaceous fruit",gold,3.0
+Belgium,Cantillon,Gueuze,Cantillon Gueuze,citrus fruit,"citrus fruit, citrus",gold,3.0
+Belgium,De Halve Maan,Brugse Zot Blond,De Halve Maan Brugse Zot Blond,"banana, pomaceous fruit","fruity, citrus fruit",amber,3.0
+Belgium,Boelens,Bieken,Boelens Bieken,"sweet, floral","sweet, bready, herb, spicy, pomaceous fruit",amber,3.0
+Belgium,Bosteels,Deus,Bosteels Deus,"floral, herb, pomaceous fruit, fresh, dried fruit, sweet","floral, fresh, sweet, pomaceous fruit",straw,5.0
+Belgium,Boon,Framboise,Boon Framboise,"berry, fresh, citrus fruit","berry, smoky",brown,3.0
+Belgium,Lindemans,Cassis,Lindemans Cassis,"berry, dried fruit","berry, dried fruit",brown,1.0
+Belgium,Het Anker,Gouden Carolus,Het Anker Gouden Carolus,"dried fruit, pomaceous fruit, grassy, fresh, sweet, spicy, caramel","sweet, citrus fruit",brown,3.0
+Belgium,De Ryck ,Special,De Ryck Special,"citrus fruit, dried fruit, pomaceous fruit, smoky","sweet, caramel",amber,5.0
+Belgium,Van den Bossche,Buffalo Special Stout,Van den Bossche Buffalo Special Stout,"sweet, caramel, roasty, berry, dried fruit","citrus fruit, smoky, spicy",brown,5.0
+Belgium,Van Eecke,Poperings Hommer Bier,Van Eecke Poperings Hommer Bier,"citrus, spicy, herb, pomaceous fruit, banana","fruity, sweet",amber,3.0
+Belgium,De Cam,Oude Geuze,De Cam Oude Geuze,"citrus fruit, tropical fruit, pomaceous fruit",white wine,amber,3.0
+Belgium,Verhaeghe,Duchesse de Bourgogne,Verhaeghe Duchesse de Bourgogne,"citrus, berry, tropical fruit","pomaceous fruit, caramel, smoky",brown,3.0
+Belgium,Rodenbach,Classic,Rodenbach Classic,"tropical fruit, berry, pomaceous fruit","fruity, citrus, dried fruit, oak",brown,3.0
+England,Fuller's,London Pride,Fuller's London Pride,"citrus fruit, tea","caramel, toasty, roasty",brown,3.0
+England,Fuller's,London Porter,Fuller's London Porter,"sweet, roasty","roasty, caramel, sweet",brown,3.0
+England,Fuller's,ESB,Fuller's ESB,"berry, citrus fruit, caramel, sweet","citrus fruit, grassy",brown,5.0
+England,Bass,Pale Ale,Bass Pale Ale,"fruity, neat","fresh, bready",amber,3.0
+England,Samuel Smith,Organic Pale Ale,Samuel Smith Organic Pale Ale,"caramel, sweet, berry, citrus",red wine,amber,5.0
+England,Boddingtons,Pub Ale,Boddingtons Pub Ale,"sweet, smooth","pomaceous fruit, tea, ",amber,3.0
+England,Newcastle Brwon Ale,Newcastle Brwon Ale,Newcastle Brwon Ale,sweet,"caramel, nutty, fruity",amber,3.0
+England,Belhaven,St.Andrew's Ale,Belhaven St.Andrew's Ale,"fruity, spicy","caramel, fruity",amber,3.0
+England,Shepherd Neame,Spitfire,Shepherd Neame Spitfire,"spicy, herb","spicy, citrus",amber,3.0
+England,Wychwood,Hobgoblin,Wychwood Hobgoblin,"fruity, bitter, sweet","citrus, bisket, bready",amber,5.0
+England,Harviestoun,Bitter & Twisted,Harviestoun Bitter & Twisted,citrus fruit,"sweet, citrus fruit",gold,3.0
+England,Traquair,Jacobite Ale,Traquair Jacobite Ale,"tea, pomaceous fruit","citrus fruit, spicy",brown,5.0
+England,BrewDog,Punk IPA,BrewDog Punk IPA,citrus fruit,"citrus fruit, bitter",gold,3.0
+England,Celt,Bleddyn 1075,Celt Bleddyn 1075,citrus fruit,"citrus, tea",gold,3.0
+England,Black Isle,Goldeneye Pale Ale,Black Isle Goldeneye Pale Ale,citrus fruit,"citrus fruit, berry",gold,3.0
+Ireland,Guinness,Extra Stout,Guinness Extra Stout,"sweet, nutty","roasty, smoky",black,3.0
+Ireland,Kilkenny,Kilkenny,Kilkenny,fruity,sweet,amber,1.0
+Ireland,Murphy's,Irish Stout,Murphy's Irish Stout,"sweet, roasty, fruity","roasty, citrus fruit",black,3.0
+Czech,Pilsner Urquell,Pilsner Urquell,Pilsner Urquell,hop,"bready, hop",gold,3.0
+Czech,Budweiser Budvar,Budweiser Budvar,Budweiser Budvar,"malty, hop","hop, bitter",gold,3.0
+Czech,Platan,Gran?t11,Platan Gran?t11,"caramel, hop","nutty, hop",amber,3.0
+Austria,Zillertal,Pils Premium Classe,Zillertal Pils Premium Classe,"malty, hop","bitter, sweet",gold,1.0
+Austria,Edelweiss,Snow Fresh,Edelweiss Snow Fresh,"banana, hop","spicy, herb, fresh",gold,1.0
+Austria,G?sser,G?sser Pils,G?sser Pils,"fruity, hop","malty, hop",straw,
+Denmark,Carlsberg,Carlsberg,Carlsberg,malty,"malty, hop",gold,1.0
+Denmark,Mikkeller,Black Hole Imperial Stout,Mikkeller Black Hole Imperial Stout,"sweet, mixed aroma","bitter, sweet, roasty, berry, hop",black,5.0
+Netherlands,La Trappe,Blond,La Trappe Blond,"roasty, fruity","malty, fresh, bitter, citrus",amber,2.0
+Netherlands,Heineken,Heineken,Heineken,sweet,"bitter, sweet, citrus",gold,2.0
+Netherlands,Grolsch,Premium Larger,Grolsch Premium Larger,fruity,"bitter, dried fruit",gold,2.0
+Italy,Birra Moretti,Birra Moretti,Birra Moretti,citrus fruit,"corn, malty, sweet",gold,1.0
+Russia,Baltika,No.9,Baltika No.9,"sweet, spicy, bready, mixed aroma","malty, sweet, bready",gold,3.0
+USA,Anchor Brewing,Anchor Steam Beer,Anchor Brewing Anchor Steam Beer,"sweet, fruity","nutty, bitter, fruity",amber,3.0
+USA,Green Flash Brewing,West Coast IPA,Green Flash Brewing West Coast IPA,"citrus fruit, sweet, hop","caramel, bitter, spicy",amber,3.0
+USA,Stone Brewing,Ruination IPA,Stone Brewing Ruination IPA,"citrus, grassy","bitter, sweet",amber,3.0
+USA,Kona Brewing,Fire Rock Pale Ale,Kona Brewing Fire Rock Pale Ale,"citrus, caramel","bitter, roasty",amber,3.0
+USA,Epic Brewing,Smoked & Oaked,Epic Brewing Smoked & Oaked,"smoky, dried fruit","fruity, alcohol, caramel",brown,5.0
+USA,Boston Beer,Samuel Adams Boston Larger,Boston Beer Samuel Adams Boston Larger,"floral, citrus, pineapple","caramel, sweet",amber,3.0
+USA,Lagunitas Brewing,Lagunitas IPA,Lagunitas Brewing Lagunitas IPA,"citrus, citrus fruit, woody, toasty, malty","fresh, citrus fruit, sweet",amber,1.0
+USA,Southern Tier Brewing,Unearthly Imperial IPA,Southern Tier Brewing Unearthly Imperial IPA,"citrus fruit, rich, malty, sweet","fresh, hop, bitter, caramel, nutty, citrus",amber,3.0
+USA,Coronado Brewing,Orange Avenue Wit,Coronado Brewing Orange Avenue Wit,"sweet, fruity, rich, malty, sweet","herb, sweet, citrus",gold,1.0
+USA,SKA Brewing,Modus Hoperandi IPA,SKA Brewing Modus Hoperandi IPA,citrus fruit,"citrus fruit, bitter",amber,3.0
+USA,Rogue Ales,Dead Guy Ale,Rogue Ales Dead Guy Ale,"caramel, sweet","nutty, sweet, fruity, bitter",amber,3.0
+USA,Victory Brewing,Prima Pils,Victory Brewing Prima Pils,"bitter, spicy","hop, bitter",gold,1.0
+USA,Blue Moon Brewing,Blue Moon,Blue Moon Brewing Blue Moon,"citrus fruit, spicy","bitter, wheat, sweet",amber,3.0
+USA,Anheuser-Busch,Budweiser,Anheuser-Busch Budweiser,citrus fruit,tropical fruit,straw,1.0
+Mexico,Cerveceria Modelo,Corona Extra,Cerveceria Modelo Corona Extra,no aroma,corn,straw,1.0
+Mexico,Cerveceria Modelo,Negra Modelo,Cerveceria Modelo Negra Modelo,"roasty, fruity","malt, hop, fresh",amber,1.0
+China,Tsingtao,Tsingtao,Tsingtao,"sweet, corn",nutty,gold,3.0
+Singapore,Tiger,Larger Beer,Tiger Larger Beer,citrus fruit,"malt, fresh, fruity, bready",gold,
+Thailand,Singha,Larger Beer,Singha Larger Beer,citrus,"malt, hop",gold,
+Srilanka,Lion,Stout,Lion Stout,"sweet, caramel","sweet, spicy",black,3.0
+Indonesia,Bintang,Bintang,Bintang,"sweet, alcohol","alcohol, hop",gold,
+Philippines,San Miguel,Pale Pilsen,San Miguel Pale Pilsen,"sweet, hop","citrus, light",gold,
+Taiwan,Taiwan Beer,Jin Pai,Taiwan Beer Jin Pai,"hop, taiwan rice","sweet, malt",straw,1.0
+Vietnam,Saigon,Export,Saigon Export,"floral, fresh, sweet","alcohol, malt",gold,
